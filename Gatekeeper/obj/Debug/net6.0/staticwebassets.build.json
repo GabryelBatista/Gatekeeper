@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GZxj26YrzJjeVVty+Jgi0rE+5l9rThqEyJib/IQfO6o=",
+  "Source": "Gatekeeper",
+  "BasePath": "_content/Gatekeeper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
